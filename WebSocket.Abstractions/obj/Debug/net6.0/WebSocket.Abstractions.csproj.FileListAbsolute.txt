@@ -1,0 +1,13 @@
+C:\Users\Admin\Desktop\WebSocket.Demo\WebSocket.Abstractions\bin\Debug\net6.0\WebSocket.Abstractions.deps.json
+C:\Users\Admin\Desktop\WebSocket.Demo\WebSocket.Abstractions\bin\Debug\net6.0\WebSocket.Abstractions.dll
+C:\Users\Admin\Desktop\WebSocket.Demo\WebSocket.Abstractions\bin\Debug\net6.0\WebSocket.Abstractions.pdb
+C:\Users\Admin\Desktop\WebSocket.Demo\WebSocket.Abstractions\obj\Debug\net6.0\WebSocket.Abstractions.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\WebSocket.Demo\WebSocket.Abstractions\obj\Debug\net6.0\WebSocket.Abstractions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\WebSocket.Demo\WebSocket.Abstractions\obj\Debug\net6.0\WebSocket.Abstractions.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\WebSocket.Demo\WebSocket.Abstractions\obj\Debug\net6.0\WebSocket.Abstractions.AssemblyInfo.cs
+C:\Users\Admin\Desktop\WebSocket.Demo\WebSocket.Abstractions\obj\Debug\net6.0\WebSocket.Abstractions.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\WebSocket.Demo\WebSocket.Abstractions\obj\Debug\net6.0\WebSocket.Abstractions.sourcelink.json
+C:\Users\Admin\Desktop\WebSocket.Demo\WebSocket.Abstractions\obj\Debug\net6.0\WebSocket.Abstractions.dll
+C:\Users\Admin\Desktop\WebSocket.Demo\WebSocket.Abstractions\obj\Debug\net6.0\refint\WebSocket.Abstractions.dll
+C:\Users\Admin\Desktop\WebSocket.Demo\WebSocket.Abstractions\obj\Debug\net6.0\WebSocket.Abstractions.pdb
+C:\Users\Admin\Desktop\WebSocket.Demo\WebSocket.Abstractions\obj\Debug\net6.0\ref\WebSocket.Abstractions.dll

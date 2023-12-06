@@ -1,0 +1,16 @@
+C:\Users\Admin\Desktop\WebSocket.Demo\WebSocket.Server\bin\Debug\net6.0\WebSocket.Server.deps.json
+C:\Users\Admin\Desktop\WebSocket.Demo\WebSocket.Server\bin\Debug\net6.0\WebSocket.Server.dll
+C:\Users\Admin\Desktop\WebSocket.Demo\WebSocket.Server\bin\Debug\net6.0\WebSocket.Server.pdb
+C:\Users\Admin\Desktop\WebSocket.Demo\WebSocket.Server\bin\Debug\net6.0\WebSocket.Abstractions.dll
+C:\Users\Admin\Desktop\WebSocket.Demo\WebSocket.Server\bin\Debug\net6.0\WebSocket.Abstractions.pdb
+C:\Users\Admin\Desktop\WebSocket.Demo\WebSocket.Server\obj\Debug\net6.0\WebSocket.Server.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\WebSocket.Demo\WebSocket.Server\obj\Debug\net6.0\WebSocket.Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\WebSocket.Demo\WebSocket.Server\obj\Debug\net6.0\WebSocket.Server.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\WebSocket.Demo\WebSocket.Server\obj\Debug\net6.0\WebSocket.Server.AssemblyInfo.cs
+C:\Users\Admin\Desktop\WebSocket.Demo\WebSocket.Server\obj\Debug\net6.0\WebSocket.Server.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\WebSocket.Demo\WebSocket.Server\obj\Debug\net6.0\WebSocket.Server.sourcelink.json
+C:\Users\Admin\Desktop\WebSocket.Demo\WebSocket.Server\obj\Debug\net6.0\WebSocket.Server.csproj.CopyComplete
+C:\Users\Admin\Desktop\WebSocket.Demo\WebSocket.Server\obj\Debug\net6.0\WebSocket.Server.dll
+C:\Users\Admin\Desktop\WebSocket.Demo\WebSocket.Server\obj\Debug\net6.0\refint\WebSocket.Server.dll
+C:\Users\Admin\Desktop\WebSocket.Demo\WebSocket.Server\obj\Debug\net6.0\WebSocket.Server.pdb
+C:\Users\Admin\Desktop\WebSocket.Demo\WebSocket.Server\obj\Debug\net6.0\ref\WebSocket.Server.dll
